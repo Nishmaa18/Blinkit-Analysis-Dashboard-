@@ -18,3 +18,4 @@ Tools Used:
 
 Impact:
 The Blinkit Analysis Dashboard empowered stakeholders to visualize sales trends and customer feedback effectively, facilitating data-driven decisions that enhance operational efficiency and significantly improve customer satisfaction. This project has proven to be a game-changer in understanding sales dynamics and driving business growth! 🌟📈
+![image](https://github.com/user-attachments/assets/ea4fa72c-eee7-4796-98c7-724de09ee1b4)
